@@ -18,12 +18,12 @@ git clone [https://github.com/Arafelevrant/Trivia.git]
 Instala las dependencias:
 
 bash
-Copy
+
 pip install -r requirements.txt
 Uso
 Ejecutar el programa principal
-bashURL_DEL_REPOSITORIO
-Copy
+
+
 python main.py
 Se mostrará un menú interactivo con las siguientes opciones:
 
